@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dev-surajkumar.github.io/My-React-News-App",
+  "homepage": "https://dev-surajkumar.github.io/Vite-React-News-App/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
